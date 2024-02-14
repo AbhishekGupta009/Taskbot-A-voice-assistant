@@ -44,7 +44,6 @@ pyaudio (for audio input/output)
 
 nltk (for natural language processing)
 
-(Add any additional libraries or dependencies used in the project)
 
 # How to Use
 Clone the repository to your local machine.
