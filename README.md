@@ -32,7 +32,7 @@ Controlling smart home devices
 # Customization
 Users can extend TaskBot's functionality by adding custom commands or integrating with third-party APIs.
 
-#Dependencies
+Dependencies
 Python 3.x
 
 speech_recognition
